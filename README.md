@@ -1,7 +1,7 @@
 # 🤖 AI Interview Agent  
 
 <p align="center">
- "AI Interview Agent Logo"
+<h1> "AI Interview Agent Logo"</h1>
 </p>  
 
 > 🚀 An AI-powered web application to **simulate technical interviews**, provide **instant feedback**, and help users **track their progress**.  
