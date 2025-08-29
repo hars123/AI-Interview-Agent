@@ -1,8 +1,6 @@
 # 🤖 AI Interview Agent  
 
-<p align="center">  
-  <img src="./logo.png" alt="AI Interview Agent Logo" width="150"/>  
-</p>  
+
 
 > 🚀 An AI-powered web application to **simulate technical interviews**, provide **instant feedback**, and help users **track their progress**.  
 
